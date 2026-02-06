@@ -29,7 +29,7 @@ const Omeni = () => {
               <Card.Body>
                 <h2 className="section-title">
                   <span className="title-bracket">&lt;</span>
-                  Moj tech stack | 3 godine
+                  Moj tech stack
                   <span className="title-bracket">/&gt;</span>
                 </h2>
                 <div className="tech-icons">
