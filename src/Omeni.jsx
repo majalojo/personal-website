@@ -11,10 +11,6 @@ import "./Omeni.css"
 const Omeni = () => {
   return (
     <div className="omeni-container">
-      <div className="stars"></div>
-      <div className="stars2"></div>
-      <div className="stars3"></div>
-
       <Container className="content-wrapper">
         <div className="hero-section">
           <h1 className="main-title">
