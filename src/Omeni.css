@@ -104,7 +104,7 @@
 }
 
 .futuristic-button {
-  width:50%;
+  width:60%;
   background: rgba(10, 10, 26, 0.8);
   border: 2px solid rgba(0, 217, 255, 0.3);
   border-radius: 20px;
@@ -215,11 +215,11 @@
 
 .section-title {
   font-family: 'Orbitron', sans-serif;
-  font-size: clamp(1.3rem, 1vw, 2rem);
+  font-size: clamp(1.2rem, 1vw, 1rem);
   font-weight: 700;
   color: #00d9ff;
   margin-bottom: 1.0rem;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 3px;
   position: relative;
   display: inline-block;

@@ -21,7 +21,9 @@ const Omeni = () => {
             Hej! Zovem se <span className="myName">MAJA</span>
             <span className="emoji">👩‍💻</span>
           </h1>
+
           <div className="title-underline"></div>
+          <code style={{color:"#61dafb"}}>Programiranje nije samo pisanje koda već dio ciklusa razvoja softvera</code>
         </div>
 
         <Row className="g-4">
@@ -31,7 +33,7 @@ const Omeni = () => {
               <Card.Body>
                 <h2 className="section-title">
                   <span className="title-bracket">&lt;</span>
-                  Moj tech stack
+                  Moj tech stack | 3 godine
                   <span className="title-bracket">/&gt;</span>
                 </h2>
                 <div className="tech-icons">
