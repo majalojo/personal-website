@@ -116,13 +116,6 @@ const Omeni = () => {
               </Card.Body>
             </Card>
           </Col>
-          <Col className="d-flex justify-content-center align-items-center" lg={12}>
-          <button className="futuristic-button text-white">
-             <h2 className="section-title">
-                  Kontaktiraj me!
-                </h2>
-          </button>
-          </Col>
         </Row>
       </Container>
     </div>
